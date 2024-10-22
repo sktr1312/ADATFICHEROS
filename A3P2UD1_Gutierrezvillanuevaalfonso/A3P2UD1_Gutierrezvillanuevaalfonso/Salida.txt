@@ -1,0 +1,2 @@
+Archivo: hola.txt - Número de líneas: 7
+Archivo: adios.txt - Número de líneas: 3

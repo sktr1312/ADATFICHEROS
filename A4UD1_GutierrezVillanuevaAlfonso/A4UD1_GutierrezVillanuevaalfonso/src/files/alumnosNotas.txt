@@ -1,0 +1,28 @@
+----------------------DATOS ALUMNOS ----------------------------------------
+ALUMNO NUMERO: 1
+NOMBRE: Alfonso Gutierrez Villanueva
+FECHA NACIMIENTO; 22/01/2000 EDAD: 24
+TELEFONO (S): 647694074 789987789 
+MODULO					NOTA
+---------------------------------------------------------------------------------------------------------------
+ADAT 					9
+SXE 					8
+PMUL 					7
+……………………………
+NOTA MEDIA 				8,00
+………………………………
+…………………………
+ALUMNO NUMERO: 2
+NOMBRE: Jaime Gutierrez Villanueva
+FECHA NACIMIENTO; 24/04/1998 EDAD: 26
+TELEFONO (S): 689098678 
+MODULO					NOTA
+---------------------------------------------------------------------------------------------------------------
+ADAT 					7
+SXE 					7
+PMUL 					9
+……………………………
+NOTA MEDIA 				7,67
+………………………………
+…………………………
+TOTAL DE ALUMNOS …………………………..2
